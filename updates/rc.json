@@ -1,11 +1,11 @@
 ﻿{
-    "sha256":  "301953b0801d883452df8f53c900d10a297b2e5552f0590d8966c191e0d8ecfe",
+    "sha256":  "51ac05f01bb1d3f9dd726f231ede20d4551812f5a6d7e6e13257f83dab00bb28",
     "releaseNotes":  [
-                         "Published 1.1_RC.7"
+                         "Published 1.1_RC.8"
                      ],
     "channel":  "rc",
-    "downloadUrl":  "https://raw.githubusercontent.com/Tim-Tim-1/MiniHUD-Updates/main/releases/MiniHUD_1_1_RC_7.zip",
+    "downloadUrl":  "https://raw.githubusercontent.com/Tim-Tim-1/MiniHUD-Updates/main/releases/MiniHUD_1_1_RC_8.zip",
     "mandatory":  false,
-    "latest":  "1.1_RC.7"
+    "latest":  "1.1_RC.8"
 }
 
