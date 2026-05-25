@@ -1,0 +1,10 @@
+{
+    "sha256":  "bb3ca5798ca09ad2c3ff9f543e615c4b5dcbda16b2b1103a251926f2c8288524",
+    "releaseNotes":  [
+                         "Published 1.1_RC.1"
+                     ],
+    "channel":  "rc",
+    "downloadUrl":  "https://github.com/Tim-Tim-1/MiniHUD-Updates/releases/download/1.1_RC.1/MiniHUD_1_1_RC_1.zip",
+    "mandatory":  false,
+    "latest":  "1.1_RC.1"
+}
